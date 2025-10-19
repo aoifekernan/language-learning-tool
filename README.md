@@ -10,11 +10,6 @@ Developing a tool to support language learning and progress tracking. Designed a
 * Progress tracking and weakness analysis
 * Future AI integration for personalised study plan against progression analysis
 
-
-
 **Roadmap**
-* Initially: Basic vocabulary storage and testing.
-* Quiz and flash card functionalities
-* Progress analytics
-* AI-powered study recommendations (future)
-* UI improvements and scalability
+* Initial stages: vocabulary storage and testing.
+* Future roadmap: Quiz and flash card functionalities, progress analytics, AI-powered study recommendations and UI improvements and scalability.
